@@ -1,0 +1,11 @@
+﻿
+
+.workItem {
+	font-size: 100pt;
+	padding: 70px;
+	font-family: sans-serif;
+	background-color: whitesmoke;
+	border: 15px solid black;
+	overflow: hidden;
+	cursor: pointer;
+}
