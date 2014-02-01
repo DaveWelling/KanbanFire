@@ -349,11 +349,7 @@
   <ItemGroup>
     <Content Include="Scripts\JQuery\jquery.mousewheel.js" />
     <Content Include="Scripts\KanbanTests\WorkItemControllerTests.js" />
-    <Content Include="Scripts\Kanban\application.js" />
-    <Content Include="Scripts\Kanban\drawColumns.js" />
-    <Content Include="Scripts\Kanban\requireConfig.js" />
-    <Content Include="Scripts\Kanban\setPanAndZoomHelper.js" />
-    <Content Include="Scripts\Kanban\viewPortHelper.js" />
+    <None Include="Scripts\Kanban\drawColumns.js.bak" />
     <Content Include="Scripts\Kanban\WorkItemController.js" />
     <Content Include="Scripts\SVGPan.js" />
     <Content Include="Web.config">

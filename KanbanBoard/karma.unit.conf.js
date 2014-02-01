@@ -8,7 +8,8 @@
 
 		// List of files / patterns to load in the browser
 		files: [
-          { pattern: 'Scripts/Angular/angular.js', watched: false, included: true, served: true },
+		  { pattern: 'Scripts/JQuery/jquery-2.0.3.min.js', watched: false, included: true, served: true },
+          { pattern: 'Scripts/Angular/angular.min.js', watched: false, included: true, served: true },
           { pattern: 'Scripts/Angular/angular-mocks.js', watched: false, included: true, served: true },
           'Scripts/Kanban/*.js',
           'Scripts/Kanban/**/*.js',
